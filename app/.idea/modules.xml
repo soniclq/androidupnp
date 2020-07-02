@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../androidupnpdemo.iml" filepath="$PROJECT_DIR$/../androidupnpdemo.iml" group="androidupnpdemo" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="androidupnpdemo/app" />
+    </modules>
+  </component>
+</project>
